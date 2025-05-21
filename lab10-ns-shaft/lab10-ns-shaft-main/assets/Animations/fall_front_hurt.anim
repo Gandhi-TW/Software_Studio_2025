@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fall_front_hurt",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2b951071-67bf-422c-ae62-a2627dfe9561"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "60e22498-ec05-4cf5-b22c-e2ff2d975079"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "ad7607d9-c4b3-4c04-a70c-cccd9d07561a"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "75e4295a-9d59-4b75-b21e-d8c2620f9927"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "75e4295a-9d59-4b75-b21e-d8c2620f9927"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
